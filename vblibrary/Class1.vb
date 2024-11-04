@@ -6,9 +6,12 @@ Public Class Class1
     Private timepassed = 0
     Private sprite1 As Sprite2D
 
-    Public Sub _Ready(ByVal sprite As Sprite2D)
-        GD.Print("hello world from visualbasic")
+    Public Sub New(sprite As Sprite2D)
         sprite1 = sprite
+    End Sub
+
+    Public Sub _Ready()
+        GD.Print("hello world from visualbasic")
     End Sub
 
     Public Sub _Process(ByVal delta As Double)
