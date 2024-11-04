@@ -1,0 +1,13 @@
+C:\Users\user\Documents\MyFiles\apps\programming\godot\projects\vbproject\vblibrary\obj\Debug\net6.0\vblibrary.vbproj.AssemblyReference.cache
+C:\Users\user\Documents\MyFiles\apps\programming\godot\projects\vbproject\vblibrary\obj\Debug\net6.0\vblibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\MyFiles\apps\programming\godot\projects\vbproject\vblibrary\obj\Debug\net6.0\vblibrary.AssemblyInfoInputs.cache
+C:\Users\user\Documents\MyFiles\apps\programming\godot\projects\vbproject\vblibrary\obj\Debug\net6.0\vblibrary.AssemblyInfo.vb
+C:\Users\user\Documents\MyFiles\apps\programming\godot\projects\vbproject\vblibrary\obj\Debug\net6.0\vblibrary.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\MyFiles\apps\programming\godot\projects\vbproject\vblibrary\obj\Debug\net6.0\vblibrary.sourcelink.json
+C:\Users\user\Documents\MyFiles\apps\programming\godot\projects\vbproject\vblibrary\bin\Debug\net6.0\vblibrary.deps.json
+C:\Users\user\Documents\MyFiles\apps\programming\godot\projects\vbproject\vblibrary\bin\Debug\net6.0\vblibrary.dll
+C:\Users\user\Documents\MyFiles\apps\programming\godot\projects\vbproject\vblibrary\bin\Debug\net6.0\vblibrary.pdb
+C:\Users\user\Documents\MyFiles\apps\programming\godot\projects\vbproject\vblibrary\obj\Debug\net6.0\vblibrary.dll
+C:\Users\user\Documents\MyFiles\apps\programming\godot\projects\vbproject\vblibrary\obj\Debug\net6.0\refint\vblibrary.dll
+C:\Users\user\Documents\MyFiles\apps\programming\godot\projects\vbproject\vblibrary\obj\Debug\net6.0\vblibrary.pdb
+C:\Users\user\Documents\MyFiles\apps\programming\godot\projects\vbproject\vblibrary\obj\Debug\net6.0\ref\vblibrary.dll
