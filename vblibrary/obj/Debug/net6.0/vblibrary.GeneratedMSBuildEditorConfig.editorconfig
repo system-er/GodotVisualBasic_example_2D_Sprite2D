@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = vblibrary
-build_property.ProjectDir = C:\Users\user\Documents\MyFiles\apps\programming\godot\projects\vbproject\vblibrary\
+build_property.ProjectDir = C:\Users\user\Documents\MyFiles\apps\programming\godot\projects\vb_example_2d_sprite1\vblibrary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

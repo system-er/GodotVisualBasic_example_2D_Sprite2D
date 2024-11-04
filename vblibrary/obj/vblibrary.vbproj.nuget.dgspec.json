@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\MyFiles\\apps\\programming\\godot\\projects\\vbproject\\vblibrary\\vblibrary.vbproj": {}
+    "C:\\Users\\user\\Documents\\MyFiles\\apps\\programming\\godot\\projects\\vb_example_2d_sprite1\\vblibrary\\vblibrary.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\MyFiles\\apps\\programming\\godot\\projects\\vbproject\\vblibrary\\vblibrary.vbproj": {
+    "C:\\Users\\user\\Documents\\MyFiles\\apps\\programming\\godot\\projects\\vb_example_2d_sprite1\\vblibrary\\vblibrary.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\MyFiles\\apps\\programming\\godot\\projects\\vbproject\\vblibrary\\vblibrary.vbproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\MyFiles\\apps\\programming\\godot\\projects\\vb_example_2d_sprite1\\vblibrary\\vblibrary.vbproj",
         "projectName": "vblibrary",
-        "projectPath": "C:\\Users\\user\\Documents\\MyFiles\\apps\\programming\\godot\\projects\\vbproject\\vblibrary\\vblibrary.vbproj",
+        "projectPath": "C:\\Users\\user\\Documents\\MyFiles\\apps\\programming\\godot\\projects\\vb_example_2d_sprite1\\vblibrary\\vblibrary.vbproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\MyFiles\\apps\\programming\\godot\\projects\\vbproject\\vblibrary\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\MyFiles\\apps\\programming\\godot\\projects\\vb_example_2d_sprite1\\vblibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\user\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"

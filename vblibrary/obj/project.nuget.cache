@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MtIWsEm2/n9aGXDNbirpa9vaeyNfLJpj/E0AQv1DIrfLTPb6+ztEEpuj5YmJJpk6juRX57TZxbhj9uDCwjD+WA==",
+  "dgSpecHash": "BjBCvBDBzqaDvrDy12QKjOhKKQ190bgsdWCbWzfotS7FwePzZ2xKpBdjkTWROIWl6Nx0sTJcfV4X1iR6V9BNpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\MyFiles\\apps\\programming\\godot\\projects\\vbproject\\vblibrary\\vblibrary.vbproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\MyFiles\\apps\\programming\\godot\\projects\\vb_example_2d_sprite1\\vblibrary\\vblibrary.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\godotsharp\\4.3.0\\godotsharp.4.3.0.nupkg.sha512"
   ],
